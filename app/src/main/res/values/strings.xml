@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Mid Exam Ghaidaa Mansour</string>
+    <string name="initial_counter">1 / 6</string>
+    <string name="artwork_content_desc">Artwork image</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_visit_website">Visit Website</string>
+    <string name="website_url">https://www.google.com</string>
+
+    <string name="view_title_1">Mountain View</string>
+    <string name="view_artist_1">Ghaidaa Mansour</string>
+    <string name="view_year_1">2023</string>
+
+    <string name="view_title_2">Lake Sunset</string>
+    <string name="view_artist_2">Artist Two</string>
+    <string name="view_year_2">2022</string>
+
+    <string name="view_title_3">Forest Path</string>
+    <string name="view_artist_3">Artist Three</string>
+    <string name="view_year_3">2021</string>
+
+    <string name="view_title_4">City Lights</string>
+    <string name="view_artist_4">Artist Four</string>
+    <string name="view_year_4">2020</string>
+
+    <string name="view_title_5">Ocean Breeze</string>
+    <string name="view_artist_5">Artist Five</string>
+    <string name="view_year_5">2019</string>
+
+    <string name="view_title_6">Desert Sands</string>
+    <string name="view_artist_6">Artist Six</string>
+    <string name="view_year_6">2018</string>
+</resources>
